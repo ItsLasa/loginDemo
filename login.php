@@ -9,6 +9,7 @@
 
  <?php
 
+$name="manoj"
 
 
 ?>
